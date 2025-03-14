@@ -1,0 +1,7 @@
+amd_smi/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.txt
